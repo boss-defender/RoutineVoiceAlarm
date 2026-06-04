@@ -52,10 +52,4 @@ To function exactly like your phone's built-in hardware clock, the app will requ
 
 ---
 
-## 🚀 How to Run the Code Locally
 
-If you want to modify or compile the code yourself:
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/RoutineVoice.git](https://github.com/YOUR_USERNAME/RoutineVoice.git)
