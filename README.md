@@ -1,6 +1,10 @@
 # 🎙️ RoutineVoice (Android 12 - 15+)
 
-A breathtaking, un-ignorable daily routine alarm application built with Flutter. Unlike standard alarms that just beep, **RoutineVoice** acts as a hybrid between a native system alarm and a background music streaming service to ensure your tasks are literally shouted out loud—even if your phone is in a deep sleep.
+A breathtaking, un-ignorable daily routine alarm application built with Flutter. Unlike standard alarms that just beep, **RoutineVoice** acts as a hybrid between a native system alarm and a background music streaming service to ensure 
+
+**your tasks are literally shouted out loud—even instead of playing alarm ringtone**
+
+even if your phone is in a deep sleep.
 
 Featuring a premium **Liquid Glass (Glassmorphism)** user interface, this app ensures you never miss a daily commitment again.
 
@@ -9,7 +13,9 @@ Featuring a premium **Liquid Glass (Glassmorphism)** user interface, this app en
 ## 🌟 What Makes It Special? (The Hybrid Secret)
 Most modern routine apps fail because Android aggressively forces background apps to go to sleep. **RoutineVoice** completely bypasses this block by using a genius workaround: it acts like a **Music Player Foreground Service** (think Spotify) combined with an **OS Kernel Alarm Manager**. 
 
-When it's time for a task, the app gains total clearance to wake your screen up, bypass the lock screen, and scream your tasks at maximum volume!
+When it's time for a task, the app gains total clearance to wake your screen up, bypass the lock screen, and 
+
+**Scream your tasks at maximum volume!**
 
 ---
 
